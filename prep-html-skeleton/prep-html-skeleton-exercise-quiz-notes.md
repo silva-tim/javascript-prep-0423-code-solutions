@@ -6,10 +6,13 @@ After completing this exercise, you should be able to discuss or answer the foll
 
 - What tags are necessary for a complete HTML Skeleton?
 <!DOCTYPE> to define the type of document, <html> the root element of an html page, <head> for meta information, and <body> for all visible parts of the document
+
 - What type of content belongs within the `<head>` of an HTML document?
   A '<title>' tag with the name of the website, other meta information for the html page
+
 - What type of content belongs within the `<body>` of an HTML document?
   Tags such as <h1> for headings, <p> for paragraphs, anything else that should be visible in the document's body.
+
 - Where must the `DOCTYPE` declaration appear in a valid HTML document?
   It must appear at the top of the HTML document with a specified type of html document (html for html5).
 
