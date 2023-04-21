@@ -5,8 +5,10 @@
 After completing this exercise, you should be able to discuss or answer the following questions:
 
 - What data types can object properties hold?
+  Any that JavaScript can have.
 
 - Describe the syntax (structure) of object-literals in JavaScript.
+  Like a variable but with squiggly brackets, assigning individual properties of the object using colons instead of 'equals' for assignment.
 
 ## Notes
 
